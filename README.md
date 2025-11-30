@@ -7,4 +7,7 @@ This project ranks resumes using:
 
 ## Run locally
 pip install -r requirements.txt
+
 streamlit run streamlit_app.py
+
+https://resume-screening-agent-vfies6pctcssmfevellvr8.streamlit.app/
